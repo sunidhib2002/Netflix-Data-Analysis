@@ -10,6 +10,7 @@
 </ul>
 <h3>About the DataSet: </h3>
 <p>This dataset contains data like different movies and TV Shows present on Netflix platform, ratings, duration and description about the show or movie, etc.</p>
+<img src = "https://github.com/sunidhib2002/Netflix-Data-Analysis/blob/main/netflix.PNG">
 <h4>Insights: </h4>
 <ul>
 <li>Netflix has more movies than TV shows. This tells that people prefer movies over web-series.</li>
